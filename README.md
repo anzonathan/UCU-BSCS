@@ -3,6 +3,7 @@ Everything I Learn in school in either code or .md files
 
 
 - Structured Programming 
-- Discrete Math
+- Discrete Mathematics 
 - Hardware and Software Essentials
 - Fundamentals of Computing 
+- 
