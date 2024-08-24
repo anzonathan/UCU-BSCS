@@ -7,3 +7,4 @@ Everything I Learn in school in either code or .md files
 - Hardware and Software Essentials
 - Fundamentals of Computing 
 - Writing and Study Skills
+- Understanding Old Testament 
