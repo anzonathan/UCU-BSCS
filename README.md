@@ -3,7 +3,7 @@ Everything I Learn in school in either code or .md files
 
 
 
-Year 1 / Sem 1
+### Year 1 / Sem 1
 
 | Code    | Course Name                              | Type | CU     |
 | ------- | ---------------------------------------- | ---- | ------ |
