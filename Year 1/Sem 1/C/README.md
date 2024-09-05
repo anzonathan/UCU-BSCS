@@ -1,6 +1,8 @@
 ## Class assignments from my lectures in my structured programming course, which is in C.
 
 #### Simple Programs
+1. [Chase Bank](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Chase%20Bank.c) A program that simulates an ATM
+
 
 #### Complex Programs
 
@@ -11,6 +13,7 @@ The
 #inlcude <stdio.h>
 ```
 library is used for the entire file.
+
 
 
 
