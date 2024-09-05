@@ -22,8 +22,8 @@
 20. 'Switch.c' a switch program 
 21. 'Int Pointers.c' - Pointers with Integers
 22. 'Test on Functions and Pointers' A test I did that delt with Pointers and Functions
-23. 'Traingles.c' A program that classifies triangles using functions
+23. 'Star Traingles.c' Generates Traingles with stars 
 24. 'Quadratic.c' A program to find the roots of a quadratic equation and analyze its nature
-25. 'Star Traingles.c' Generates Traingles with stars 
+
 
    
