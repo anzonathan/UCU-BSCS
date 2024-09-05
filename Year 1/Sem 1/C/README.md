@@ -14,7 +14,7 @@ library is used for the entire file.
 
 2. [Decision Making Statement](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Decsion%20Making%20Statements.c) 5 assignment problems
 
+2. [For Loops](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Decsion%20Making%20Statements.c) For Loop Excercises
 
-![fig](https://www.figma.com/)
 
    
