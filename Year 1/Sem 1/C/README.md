@@ -1,5 +1,10 @@
 ## Class assignments from my lectures in my structured programming course, which is in C.
 
+#### Beginner
+
+#### Intermediate
+
+#### Advanced
 1. 'FizzBuzz.c' is a C program that detects multiples
 2. 'Tmp_Converter.c' is a C program that can convert Celisus degrees to Fahrenheit or vice versa.
 3. 'Flow Chart.pdf' is a flow chart drawn with draw.io to demonstrate the temperature conversion program.
