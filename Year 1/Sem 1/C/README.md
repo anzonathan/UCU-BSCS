@@ -7,6 +7,8 @@
 4. [I Love Meat](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/I%20love%20Meat.c) A program to select...honeslty I never really understood the point of this program but it was an introduction into selecting arrays
 5. [Int Pointers](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Int%20Pointers.c) There is this data type called a pointer. Most people dont get it. But I hope you do. !!!Study this last
 6. [Inventory](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Inventory.c) An Inventory managmenment system
+7. [Switch](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Switch.c) We used a data scructure called a switch, its kind of like an if statement.
+8. 
 
 #### Assignments & Tests
 1. [25 Problems](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/25%20Problems.c) An assignment with 25 Problems. Programs were commneted out. 
