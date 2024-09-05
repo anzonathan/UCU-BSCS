@@ -9,6 +9,7 @@
 6. [Inventory](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Inventory.c) An Inventory managmenment system
 7. [Switch](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Switch.c) We used a data scructure called a switch, its kind of like an if statement.
 8. [Tables](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Tables.c) Generates multiplication times tables.
+9. [Tmp_Converter + Bonus](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Tmp_Converter%20%2B%20Bonus%20.c) Converts temperature and incorperates error handling.
 
 #### Assignments & Tests
 1. [25 Problems](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/25%20Problems.c) An assignment with 25 Problems. Programs were commneted out. 
