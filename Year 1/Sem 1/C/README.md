@@ -14,7 +14,6 @@
 11. [Fizzbuzz](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/fizzbuzz.c) This is supposed to be a beginner program, but I think our lecturere may have mixed up steps. This is the real [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz).
 12. [Minutes](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/minutes.c) Converts Minutes to other timescales. I found this tricky. Internalize it.
 13. [Reverse](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/reverse.c) This reverses a string.
-14.  
 
 
 #### Assignments & Tests
