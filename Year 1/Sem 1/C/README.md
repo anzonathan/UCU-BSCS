@@ -4,6 +4,7 @@
 1. [Chase Bank](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Chase%20Bank.c) A program that simulates an ATM
 2. [Electric Bill](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Electric%20Bill.c) Simulating a Yaka Bill
 3. [Generations](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Generations.c) A program that tells you which generation you are.
+4. [I Love Meat](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/I%20love%20Meat.c) A program to select...honeslty I never really understood the point of this program but it was an introduction into selecting arrays
 
 #### Assignments & Tests
 1. [25 Problems](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/25%20Problems.c) An assignment with 25 Problems. Programs were commneted out. 
