@@ -2,9 +2,7 @@
 
 #### Simple Programs
 1. [Chase Bank](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Chase%20Bank.c) A program that simulates an ATM
-
-
-#### Complex Programs
+2. [Electric Bill](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Electric%20Bill.c) Simulating a Yaka Bill
 
 #### Assignments & Tests
 1. [25 Problems](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/25%20Problems.c) An assignment with 25 Problems. Programs were commneted out. 
