@@ -31,7 +31,7 @@ library is used for the entire file.
 
 4. [Functions](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Functions.c) Excercises with functions.
 
-5.[While Loops](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/While%20Loops%20-1.c) Excercises with While Loops 
+5. [While Loops](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/While%20Loops%20-1.c) Excercises with While Loops 
 
 6. [Test 1](https://github.com/anzonathan/UCU-BSCS/tree/main/Year%201/Sem%201/C/Test%20on%20Functions%20and%20Pointers) A test on Function and Pointers
 
