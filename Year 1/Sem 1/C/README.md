@@ -17,12 +17,13 @@
 
 
 #### Assignments & Tests
-1. [25 Problems](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/25%20Problems.c) An assignment with 25 Problems. Programs were commneted out. 
-The 
+Some of the progrmas were commneted out. 
+And in some cases the 
 ```c
 #inlcude <stdio.h>
 ```
 library is used for the entire file.
+1. [25 Problems](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/25%20Problems.c) 
 
 2. [Decision Making Statement](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/C/Decsion%20Making%20Statements.c) 5 assignment problems
 
