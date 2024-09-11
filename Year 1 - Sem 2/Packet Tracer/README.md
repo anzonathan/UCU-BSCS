@@ -13,7 +13,7 @@
 <a name="1"></a>
 ### Setting up a Network
 
-![[1.png]]
+![[https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201%20-%20Sem%202/Packet%20Tracer/1.png]]
 
 1. Setup the network by first laying out all your devices
 	1. 2 PCs
