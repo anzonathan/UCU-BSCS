@@ -1,18 +1,16 @@
 
 ### Objectives
 
-1. [[#Setting up a Network]]
-2. [[#Configure Each PC]] 
-3. [[#Create hostnames for Switches and Router]] 
-4. [[#Secure Console Ports]] 
-5. [[#Secure Privileged Mode]]
-6. [[#Set a MOTD (Message of the day)]] 
-7. [[#Create a username]]
-
-[Link Text](#anchor-name)
- 
+1. [Setting up a Network](#1)
+2. [Configure Each PC](#2)
+3. [Create hostnames for Switches and Router](#3)
+4. [Secure Console Ports](#4)
+5. [Secure Privileged Mode](#5)
+6. [Set a MOTD (Message of the day)](#6)
+7. [Create a username](#7)
 
 
+[Link Text](#1)
 ### Setting up a Network
 
 ![[1.png]]
@@ -29,6 +27,9 @@
 	1. Click the router
 	2. Config >> Interface >> GigabitEthernet 0/0/0 (this should be the port number that the cables connect to)>> Port Status >> on
 	3. Do the same for the other port:GigabitEthernet 0/0/1 >> Port Status >> on (All cables should now have green triangles)
+
+
+[Link Text](#2)
 ### Configure Each PC
 
 1. Click a pc 
@@ -68,6 +69,8 @@ Minimum = 0ms, Maximum = 0ms, Average = 0ms
 ```
 
 If it you don't receive packets or if they get lost. You should setup your connections again and make sure your PCs are configured well. 
+
+[Link Text](#3)
 ### Create hostnames for Switches and Router
 
 1. Label the first switch 'BSCS',the second switch 'BSDS', and the router 'Computing'. Do this by clicking the text below each device. (Labeling does not change the hostname)
@@ -83,6 +86,8 @@ exit
 
 3. Do this for the second switch but make the hostname 'BSDS'
 4. Use the same instructions for the router and make the hostname 'computing'
+
+[Link Text](#4)
 ### Secure Console Ports 
 
 1. Click a switch >> CLI
@@ -99,6 +104,7 @@ BSCS(config)# exit
 
 2. Test if this works my exiting and entering the CLI again. If you are prompted for a password , you have secured the port. If it does not, repeat the steps.
 
+[Link Text](#5)
 ### Secure Privileged Mode 
 
 1. Click a switch >> CLI
@@ -117,6 +123,7 @@ BSCS>enable
 ```
 3. Do this for the other switch as well
 
+[Link Text](#6)
 ### Set a MOTD (Message of the day)
 
 1. Click a switch >> CLI
@@ -131,6 +138,8 @@ BSCS# exit
 
 2. Enter into the CLI to see if the MOTD appears
 3. Do this for the second switch
+
+[Link Text](#7)
 ### Create a username 
 
 1. Create a username
