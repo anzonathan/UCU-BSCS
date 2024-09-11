@@ -10,7 +10,7 @@
 7. [Create a username](#7)
 
 
-[Link Text](#1)
+<a name="1"></a>
 ### Setting up a Network
 
 ![[1.png]]
@@ -29,7 +29,7 @@
 	3. Do the same for the other port:GigabitEthernet 0/0/1 >> Port Status >> on (All cables should now have green triangles)
 
 
-[Link Text](#2)
+<a name="2"></a>
 ### Configure Each PC
 
 1. Click a pc 
@@ -70,7 +70,7 @@ Minimum = 0ms, Maximum = 0ms, Average = 0ms
 
 If it you don't receive packets or if they get lost. You should setup your connections again and make sure your PCs are configured well. 
 
-[Link Text](#3)
+<a name="3"></a>
 ### Create hostnames for Switches and Router
 
 1. Label the first switch 'BSCS',the second switch 'BSDS', and the router 'Computing'. Do this by clicking the text below each device. (Labeling does not change the hostname)
@@ -87,7 +87,7 @@ exit
 3. Do this for the second switch but make the hostname 'BSDS'
 4. Use the same instructions for the router and make the hostname 'computing'
 
-[Link Text](#4)
+<a name="4"></a>
 ### Secure Console Ports 
 
 1. Click a switch >> CLI
@@ -104,7 +104,7 @@ BSCS(config)# exit
 
 2. Test if this works my exiting and entering the CLI again. If you are prompted for a password , you have secured the port. If it does not, repeat the steps.
 
-[Link Text](#5)
+<a name="5"></a>
 ### Secure Privileged Mode 
 
 1. Click a switch >> CLI
@@ -123,7 +123,7 @@ BSCS>enable
 ```
 3. Do this for the other switch as well
 
-[Link Text](#6)
+<a name="6"></a>
 ### Set a MOTD (Message of the day)
 
 1. Click a switch >> CLI
@@ -139,7 +139,7 @@ BSCS# exit
 2. Enter into the CLI to see if the MOTD appears
 3. Do this for the second switch
 
-[Link Text](#7)
+<a name="7"></a>
 ### Create a username 
 
 1. Create a username
@@ -164,7 +164,7 @@ Destination filename [startup-config]?[Enter]
 Building configuration..
 ```
 
-<a name="anchor-name"></a>
+
 
 #### References 
 
