@@ -9,6 +9,8 @@
 6. [[#Set a MOTD (Message of the day)]] 
 7. [[#Create a username]]
 
+[Link Text](#anchor-name)
+ 
 
 
 ### Setting up a Network
@@ -19,7 +21,7 @@
 	1. 2 PCs
 	2. 2 Switches
 	3. 1 router
-2. Connect each PC to the router with a console cable (the blue one that curves), from the RS32 (on the PC) to the one and only console port (on the switch).
+2. Connect each PC to the switc with a console cable (the blue one that curves), from the RS32 (on the PC) to the one and only console port (on the switch).
 3. Create another connection from each PC to the switch with a copper Straight-Through. (Use any fast ethernet port)
 4. Make a connection from the router to each switch with an Automatic Connection ⚡️.
 5. Make a connection between each switch with an Automatic Connection ⚡️. (In a few seconds, all connections should have green triangles except the router connections)
@@ -153,7 +155,7 @@ Destination filename [startup-config]?[Enter]
 Building configuration..
 ```
 
-
+<a name="anchor-name"></a>
 
 #### References 
 
