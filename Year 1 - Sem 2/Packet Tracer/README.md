@@ -1,13 +1,13 @@
 
-# Objectives
+## Objectives
 
-### 1. [Setting up a Network](#1)
-### 2. [Configure Each PC](#2)
-### 3. [Create hostnames for Switches and Router](#3)
-### 4. [Secure Console Ports](#4)
-### 5. [Secure Privileged Mode](#5)
-### 6. [Set a MOTD (Message of the day)](#6)
-### 7. [Create a username](#7)
+#### 1. [Setting up a Network](#1)
+#### 2. [Configure Each PC](#2)
+#### 3. [Create hostnames for Switches and Router](#3)
+#### 4. [Secure Console Ports](#4)
+#### 5. [Secure Privileged Mode](#5)
+#### 6. [Set a MOTD (Message of the day)](#6)
+#### 7. [Create a username](#7)
 
 
 <a name="1"></a>
