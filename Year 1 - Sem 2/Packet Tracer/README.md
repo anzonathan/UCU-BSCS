@@ -13,7 +13,8 @@
 <a name="1"></a>
 ### Setting up a Network
 
-![[1.png]]
+<img width="393" alt="1" src="https://github.com/user-attachments/assets/51885884-8a16-4b3c-8574-05738cbbef15">
+
 
 1. Setup the network by first laying out all your devices
 	1. 2 PCs
