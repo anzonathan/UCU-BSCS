@@ -20,10 +20,10 @@ Everything I Learn in school in either code or .md files
 ### **Semester 2**
 | Code    | Course Name                            | Type | CU     |
 | ------- | -------------------------------------- | ---- | ------ |
-| CSC1203 | Data Structures and algorithms         | C    | 4      |
+| CSC1203 | [Data Structures and algorithms](https://github.com/anzonathan/UCU-BSCS/tree/main/Year%201%20-%20Sem%202/CSC1203)         | C    | 4      |
 | CSC2212 | Computer Organisation and Architecture | C    | 3      |
-| MTH1203 | ![Probability and Statistics](https://github.com/anzonathan/UCU-BSCS/tree/main/Year%201%20-%20Sem%202/MTH1203)             | C    | 3      |
-| ICT1205 | Database Design and Applications       | C    | 4      |
+| MTH1203 | [Probability and Statistics](https://github.com/anzonathan/UCU-BSCS/tree/main/Year%201%20-%20Sem%202/MTH1203)             | C    | 3      |
+| ICT1205 | [Database Design and Applications](https://github.com/anzonathan/UCU-BSCS/tree/main/Year%201%20-%20Sem%202/ICT1205)      | C    | 4      |
 | ICT1206 | Local Area Computer Networking         | C    | 3      |
 | TBS1201 | Understanding the New Testament        | C    | 3      |
 | PBH2108 | Health and Wholeness                   | C    | 3      |
