@@ -8,7 +8,7 @@ Everything I Learn in school in either code or .md files
 
 | Code    | Course Name                              | Type | CU     |
 | ------- | ---------------------------------------- | ---- | ------ |
-| CSC1101 | ![Structured Programming](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/Structured%20Programming.md)                   | C    | 4      |
+| CSC1101 | [Structured Programming](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201/Sem%201/Structured%20Programming.md)                   | C    | 4      |
 | MTH1102 | Discrete Mathematics                     | C    | 3      |
 | ICT1102 | Essential Hardware and Software concepts | C    | 4      |
 | ICT1103 | Fundamentals of Computing                | C    | 4      |
