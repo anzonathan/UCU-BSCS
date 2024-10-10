@@ -1,4 +1,4 @@
-#Probability and Statistics
+# Probability and Statistics
 
 ![Statistics Image](https://github.com/user-attachments/assets/0f5b408e-4089-46cf-b119-086141ee3352)
 
