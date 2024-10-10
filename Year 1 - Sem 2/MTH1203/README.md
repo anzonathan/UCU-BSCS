@@ -9,7 +9,8 @@ Tools:
 
 Course Objectives:
   - Understand the basic concepts of probability, including probability spaces, random variables, probability distributions (discrete and continuous), and their properties. 
-  - Apply probability theory to analyze and model random phenomena relevant to computational sciences and data science, such as error rates and algorithm performance. ● Learn the fundamentals of statistical inference, including hypothesis testing, confidence intervals, and Bayesian inference. 
+  - Apply probability theory to analyze and model random phenomena relevant to computational sciences and data science, such as error rates and algorithm performance.
+  - Learn the fundamentals of statistical inference, including hypothesis testing, confidence intervals, and Bayesian inference. 
   - Apply statistical methods to make inferences about populations based on sample data. 
   - Understand the concepts of statistical significance, p-values, and Type I and Type II errors. 
   - Understand the importance of data quality and the impact of data biases on analysis results.
