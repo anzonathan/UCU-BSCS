@@ -10,3 +10,8 @@ The username could be root is that was the default user or if you have another u
 mysql -u username -p
 ```
 
+To show your hostname 
+
+```SQL
+select @@hostname;
+```
