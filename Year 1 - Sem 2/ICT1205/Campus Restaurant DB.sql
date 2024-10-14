@@ -27,19 +27,26 @@ ENGINE = InnoDB;
 -- -----------------------------------------------------
 -- Table `Campus_Restaurant_DB`.`Transactions`
 -- -----------------------------------------------------
+
 CREATE TABLE IF NOT EXISTS `Campus_Restaurant_DB`.`Transactions` (
   `idTransactions` INT NOT NULL,
   `Datetime` DATETIME NOT NULL,
   `Orders_idOrders` INT NOT NULL,
+  `Customer_CustomerID` INT NULL,
   PRIMARY KEY (`idTransactions`),
   INDEX `fk_Transactions_Orders1_idx` (`Orders_idOrders` ASC) VISIBLE,
+  INDEX `fk_Transactions_Customer1_idx` (`Customer_Customer ID` ASC) VISIBLE,
   CONSTRAINT `fk_Transactions_Orders1`
     FOREIGN KEY (`Orders_idOrders`)
     REFERENCES `Campus_Restaurant_DB`.`Orders` (`idOrders`)
     ON DELETE NO ACTION
+    ON UPDATE NO ACTION,
+  CONSTRAINT `fk_Transactions_Customer1`
+    FOREIGN KEY (`Customer_CustomerID`)
+    REFERENCES `Campus_Restaurant_DB`.`Customer` (`CustomerID`)
+    ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
-
 
 -- -----------------------------------------------------
 -- Table `Campus Restaurant DB`.`Customer`
@@ -50,7 +57,6 @@ CREATE TABLE IF NOT EXISTS `Campus_Restaurant_DB`.`Customer` (
   `Last_Name` VARCHAR(45) NOT NULL,
   `Customer_Category` VARCHAR(45) NOT NULL,
   `Phone_Number` CHAR(10) NOT NULL,
-  `idTransactions` VARCHAR(45) NOT NULL,
   PRIMARY KEY (`CustomerID`),
   CONSTRAINT `idOrders`
     FOREIGN KEY (`CustomerID`)
@@ -58,7 +64,7 @@ CREATE TABLE IF NOT EXISTS `Campus_Restaurant_DB`.`Customer` (
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `idTransactions`
-    FOREIGN KEY (`CustomerID`)
+    --FOREIGN KEY (`CustomerID`)
     REFERENCES `Campus_Restaurant_DB`.`Transactions` (`idTransactions`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
