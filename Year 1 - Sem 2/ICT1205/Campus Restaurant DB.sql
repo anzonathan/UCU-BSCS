@@ -19,7 +19,7 @@ USE `Campus_Restaurant_DB` ;
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `Campus_Restaurant_DB`.`Orders` (
   `idOrders` INT NOT NULL,
-  `Order Category` VARCHAR(45) NOT NULL,
+  `Order_Category` VARCHAR(45) NOT NULL,
   PRIMARY KEY (`idOrders`))
 ENGINE = InnoDB;
 
@@ -35,7 +35,7 @@ CREATE TABLE IF NOT EXISTS `Campus_Restaurant_DB`.`Transactions` (
   INDEX `fk_Transactions_Orders1_idx` (`Orders_idOrders` ASC) VISIBLE,
   CONSTRAINT `fk_Transactions_Orders1`
     FOREIGN KEY (`Orders_idOrders`)
-    REFERENCES `mydb`.`Orders` (`idOrders`)
+    REFERENCES `Campus_Restaurant_DB`.`Orders` (`idOrders`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
@@ -45,21 +45,21 @@ ENGINE = InnoDB;
 -- Table `Campus Restaurant DB`.`Customer`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `Campus_Restaurant_DB`.`Customer` (
-  `Customer ID` INT NOT NULL,
-  `First Name` VARCHAR(45) NOT NULL,
-  `Last Name` VARCHAR(45) NOT NULL,
-  `Customer Category` VARCHAR(45) NOT NULL,
-  `Phone Number` CHAR(10) NOT NULL,
+  `CustomerID` INT NOT NULL,
+  `First_Name` VARCHAR(45) NOT NULL,
+  `Last_Name` VARCHAR(45) NOT NULL,
+  `Customer_Category` VARCHAR(45) NOT NULL,
+  `Phone_Number` CHAR(10) NOT NULL,
   `idTransactions` VARCHAR(45) NOT NULL,
-  PRIMARY KEY (`Customer ID`),
+  PRIMARY KEY (`CustomerID`),
   CONSTRAINT `idOrders`
-    FOREIGN KEY (`Customer ID`)
-    REFERENCES `mydb`.`Orders` (`idOrders`)
+    FOREIGN KEY (`CustomerID`)
+    REFERENCES `Campus_Restaurant_DB`.`Orders` (`idOrders`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
   CONSTRAINT `idTransactions`
-    FOREIGN KEY (`Customer ID`)
-    REFERENCES `mydb`.`Transactions` (`idTransactions`)
+    FOREIGN KEY (`CustomerID`)
+    REFERENCES `Campus_Restaurant_DB`.`Transactions` (`idTransactions`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION)
 ENGINE = InnoDB;
@@ -69,9 +69,9 @@ ENGINE = InnoDB;
 -- Table `Campus_Restaurant_DB`.`Items`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `Campus_Restaurant_DB`.`Items` (
-  `Item Id` INT NOT NULL,
-  `Item Name` VARCHAR(45) NOT NULL,
-  `Unit cost` INT NOT NULL,
+  `Item_Id` INT NOT NULL,
+  `Item_Name` VARCHAR(45) NOT NULL,
+  `Unit_Cost` INT NOT NULL,
   `Qty` INT NOT NULL,
   PRIMARY KEY (`Item Id`))
 ENGINE = InnoDB;
@@ -81,13 +81,13 @@ ENGINE = InnoDB;
 -- Table `Campus_Restaurant_DB`.`Items_has_Orders`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `Campus_Restaurant_DB`.`Items_has_Orders` (
-  `Items_Item Id` INT NOT NULL,
+  `Items_Item_Id` INT NOT NULL,
   `Orders_idOrders` INT NOT NULL,
-  PRIMARY KEY (`Items_Item Id`, `Orders_idOrders`),
+  PRIMARY KEY (`Items_Item_Id`, `Orders_idOrders`),
   INDEX `fk_Items_has_Orders_Orders1_idx` (`Orders_idOrders` ASC) VISIBLE,
-  INDEX `fk_Items_has_Orders_Items1_idx` (`Items_Item Id` ASC) VISIBLE,
+  INDEX `fk_Items_has_Orders_Items1_idx` (`Items_Item_Id` ASC) VISIBLE,
   CONSTRAINT `fk_Items_has_Orders_Items1`
-    FOREIGN KEY (`Items_Item Id`)
+    FOREIGN KEY (`Items_Item_Id`)
     REFERENCES `Campus_Restaurant_DB`.`Items` (`Item Id`)
     ON DELETE NO ACTION
     ON UPDATE NO ACTION,
