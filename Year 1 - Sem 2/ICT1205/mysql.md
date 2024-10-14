@@ -8,8 +8,8 @@ After downloading the mysql server from the community. You must create a passwor
 3. A *Record* is a Row
 4. A *Multiplicity* is an Assumption
 
-<font color=red>❗️Do not use spaces in your naming conventions. Usenundersocres instead.</font>
-<font color=red>❗️All SQL commnads are in caps and user commands are in lowecase letters.</font>
+<font color="red">❗️Do not use spaces in your naming conventions. Usenundersocres instead.</font>
+<font color="red">❗️All SQL commnads are in caps and user commands are in lowecase letters.</font>
 
 Enter this Command in your terminal. 
 
