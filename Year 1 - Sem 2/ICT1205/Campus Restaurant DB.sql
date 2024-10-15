@@ -55,11 +55,11 @@ CREATE TABLE `Transactions` (
 
 -- Inserting into customer table. 
 
-INSERT INTO Customer VALUES(1819001,'Dorcus','Musaasizi','3 Meals x5 Subsicription','0783456123');
-INSERT INTO Customer VALUES(1819002,'Michael','Kalule','3 Meals x7 Subsicription','0783456124');
-INSERT INTO Customer VALUES(1819003,'Brown','Bbosa','1 Meals x7 Subsicription','0783456125');
-INSERT INTO Customer VALUES(1819004,'Maria','Nankya','Reducing Balance','0783456126');
-INSERT INTO Customer VALUES(1819005,'Jeremiah','Ahimbisibwe','Reducing Balance','0783456127');
+INSERT INTO Customer VALUES(1819001,'Dorcus','Musaasizi','Subsicription','0783456123');
+INSERT INTO Customer VALUES(1819002,'Michael','Kalule','Subsicription','0783456124');
+INSERT INTO Customer VALUES(1819003,'Brown','Bbosa','Credited','0783456125');
+INSERT INTO Customer VALUES(1819004,'Maria','Nankya','Credited','0783456126');
+INSERT INTO Customer VALUES(1819005,'Jeremiah','Ahimbisibwe','Subscritpion','0783456127');
 
 -- Inserting Items. 
 
