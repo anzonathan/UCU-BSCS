@@ -35,7 +35,7 @@ This is a series of numbers where each number is the sum of the two preceding on
 fib(n) = fib(n-1) + fib(n-2)
 
 ```python 
-def fibbonacci(n):
+def fibonacci(n):
 	if n < 0:
 		print("Incorrect Input")
 	
@@ -46,14 +46,14 @@ def fibbonacci(n):
 		return 1
 	
 	else:
-		return fibbonacci(n-1) + fibbonacci(n-2)
+		return fibonacci(n-1) + fibonacci(n-2)
 
 #input number
 n = 5
 
 #loop to generate sequence
 for i in range(1,n+1):
-	print(f'{i} = {fibbonacci(i)}')
+	print(f'{i} = {fibonacci(i)}')
 ```
 
 Fibonacci sequence is used in working out search algorithms in computing
