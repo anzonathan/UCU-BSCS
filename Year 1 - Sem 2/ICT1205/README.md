@@ -8,4 +8,4 @@
 4. VS Code [Extension](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 5. MySQl [Commands](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201%20-%20Sem%202/ICT1205/mysql.md)
 6. Semsester [Database](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201%20-%20Sem%202/ICT1205/Campus%20Restaurant%20DB.sql)
-7. Test 2 [SQL]()
+7. Test 2 [SQL](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201%20-%20Sem%202/ICT1205/test2.sql)
