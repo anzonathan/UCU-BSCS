@@ -7,6 +7,9 @@ Tools:
 2. [Juypter Notebook](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 3. Miniconda
 
+Resources:
+1. https://dlsun.github.io/probability/
+
 Course Objectives:
   - Understand the basic concepts of probability, including probability spaces, random variables, probability distributions (discrete and continuous), and their properties. 
   - Apply probability theory to analyze and model random phenomena relevant to computational sciences and data science, such as error rates and algorithm performance.
