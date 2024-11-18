@@ -9,6 +9,7 @@ Tools:
 
 Resources:
 1. https://dlsun.github.io/probability/
+2. https://www.ece.uvic.ca/~mmcguire/teaching/e400/Lecture14.pdf
 
 Course Objectives:
   - Understand the basic concepts of probability, including probability spaces, random variables, probability distributions (discrete and continuous), and their properties. 
