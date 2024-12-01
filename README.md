@@ -25,6 +25,6 @@ Everything I Learn in school in either code or .md files
 | MTH1203 | [Probability and Statistics](https://github.com/anzonathan/UCU-BSCS/tree/main/Year%201%20-%20Sem%202/MTH1203)             | C    | 3      |
 | ICT1205 | [Database Design and Applications](https://github.com/anzonathan/UCU-BSCS/tree/main/Year%201%20-%20Sem%202/ICT1205)      | C    | 4      |
 | ICT1206 | [Local Area Computer Networking](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201%20-%20Sem%202/ICT1206/LAN.md)         | C    | 3      |
-| TBS1201 | Understanding the New Testament        | C    | 3      |
+| TBS1201 | [Understanding the New Testament](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201%20-%20Sem%202/TBS1201/Content.md)       | C    | 3      |
 | PBH2108 | Health and Wholeness                   | C    | 3      |
 |         | _Total credits for Year 1 Semester 2_  |      | **23** |
