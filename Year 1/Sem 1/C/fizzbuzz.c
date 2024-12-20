@@ -7,7 +7,8 @@
 //When you imput a multiple of 3 print buzz
 //When you input a multiple of 5 print Buzz
 //When you input a multiple of 7 print Fizzbuzz
-//If the entered numbet is not a multible of 3 or 5 print the number itself  
+//If the entered number is not a multible of 3 or 5 print the number itself  
+//Disclaimer: This is not the actual rendition of FizzBuzz
 
 #include <stdio.h>
 
