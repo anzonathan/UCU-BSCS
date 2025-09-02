@@ -28,3 +28,19 @@ Everything I Learn in school in either code or .md files
 | TBS1201 | [Understanding the New Testament](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%201%20-%20Sem%202/TBS1201/Content.md)       | C    | 3      |
 | PBH2108 | Health and Wholeness                   | C    | 3      |
 |         | _Total credits for Year 1 Semester 2_  |      | **23** |
+
+
+## YEAR 2
+
+### **Semester 1**
+
+|Code|Course Name|Type|CU|
+|---|---|---|---|
+|CSC2105|Object Oriented Programming|C|4|
+|CSC2106|Operating Systems|C|3|
+|CSC2107|Design and Analysis of Algorithms|C|3|
+|MTH2104|Calculus|C|3|
+|DSC2103|Data Science|C|4|
+|TST2206|Understanding Ethics from a Christian Perspective|C|3|
+||_Total credits for Year 2 Semester 1_||**20**|
+
