@@ -36,7 +36,7 @@ Everything I Learn in school in either code or .md files
 
 | Code    | Course Name                           | Type | CU     |
 | ------- | ------------------------------------- | ---- | ------ |
-| MTH2104 | Calculus                              | C    | 4      |
+| MTH2104 | [Calculus](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%202%20-%20Sem%201/Calculus)                              | C    | 4      |
 | MTH2206 | Linear Algebra                        | C    | 4      |
 | CSC2105 | Object Oriented Programming           | C    | 4      |
 | CSC2106 | Operating Systems                     | C    | 4      |
