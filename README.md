@@ -43,7 +43,7 @@ Everything I Learn in school in either code or .md files
 | CSC2106 | Operating Systems                                 | C    | 4      |
 | CSC2107 | Design and Analysis of Algorithms                 | C    | 4      |
 | CSC2208 | Artificial Intelligence                           | C    | 4      |
-| SWE2101 | Software Engineering Fundamentals                 | E    | 4      |
+| ELE1204 | Digital electronics and Logic Design                | E    | 4      |
 | TST2206 | Understanding Ethics from a Christian Perspective | C    | 3      |
 |         | _Total credits for Year 2 Semester 1_             |      | **31** |
 
