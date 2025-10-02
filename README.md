@@ -35,15 +35,13 @@ Everything I Learn in school in either code or .md files
 ### **Semester 1**
 
 
-| Code    | Course Name                                       | Type | CU     |
-| ------- | ------------------------------------------------- | ---- | ------ |
-| MTH2104 | [Calculus](https://github.com/anzonathan/UCU-BSCS/blob/main/Year%202%20-%20Sem%201/Calculus)                                     | C    | 4      |
-| MTH2206 | Linear Algebra                             | C    | 4      |
-| CSC2105 | Object Oriented Programming                       | C    | 4      |
-| CSC2106 | Operating Systems                                 | C    | 4      |
-| CSC2107 | Design and Analysis of Algorithms                 | C    | 4      |
-| CSC2208 | Artificial Intelligence                           | C    | 4      |
-| ELE1204 | Digital electronics and Logic Design                | E    | 4      |
-| TST2206 | Understanding Ethics from a Christian Perspective | C    | 3      |
-|         | _Total credits for Year 2 Semester 1_             |      | **31** |
-
+| Code    | Course Name                              | Type | CU     |
+| ------- | ---------------------------------------- | ---- | ------ |
+| MTH2104 | [Calculus]()                             | C    | 4      |
+| MTH2206 | [Linear Algebra]()                 | C    | 4      |
+| CSC2105 | [Object Oriented Programming]()        | C    | 4      |
+| CSC2106 | [Operating Systems]()                    | C    | 4      |
+| CSC2107 | [Design and Analysis of Algorithms]()    | C    | 4      |
+| CSC2208 | [Artificial Intelligence]()          | C    | 4      |
+| ELE1204 | [Digital Electronics and logic Design]() | E    | 4      |
+|         | _Total credits for Year 2 Semester 1_    |      | **28** |
