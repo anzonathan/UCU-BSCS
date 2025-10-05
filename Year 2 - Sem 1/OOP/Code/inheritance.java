@@ -1,36 +1,42 @@
-//Inheritance is used to achieve runtime polymorphism
 
 class Animal{
 
     void Sound(){
-        System.out.println("Some sound");
+        System.out.println("Noise");
     }
 }
 
 class Dog extends Animal{
 
     void Sound(){
-        System.out.println("Bark");
+        System.out.println("Woof");
     }
 }
 
-class Cat extends Animal{
+class Sheep extends Animal{
 
     void Sound(){
-        System.out.println("Meow");
-
+        System.out.println("Baaah");
     }
-
 }
 
-public class inheritance {
+class Cow extends Animal{
+
+    void Sound() {
+        System.out.println("Moo");
+    }
+}
+
+public class inheritance{
 
     public static void main(String[] args){
 
-        Animal Red = new Dog();
-        Red.Sound();
+        Animal Butter = new Sheep();
+        Animal Bessie = new Cow();
+        Animal Rex = new Dog();
 
-        Animal Candy = new Cat();
-        Candy.Sound();
-
-    }}
+        Rex.Sound();
+        Bessie.Sound();
+        Butter.Sound();
+    }
+}
