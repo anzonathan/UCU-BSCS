@@ -1,5 +1,6 @@
 
 import java.util.LinkedList;
+import java.util.ListIterator;
 
 public class linkedList {
 
@@ -19,7 +20,26 @@ public class linkedList {
         friends.add("Cole");
 
 
+        //remove Element
+        friends.remove("Faith");
+        friends.remove(0);
+
+
         System.out.println(friends);
+
+
+        //Iterator
+        ListIterator<String> iterator = friends.listIterator();
+
+        while (iterator.hasNext()){
+            System.out.println(iterator.next());
+        }
+
+        //Using a for loop
+        for (String i: friends){
+            System.out.println(i);
+
+        }
 
 
     }
