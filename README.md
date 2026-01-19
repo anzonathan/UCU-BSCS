@@ -36,13 +36,28 @@ Everything I Learn in school in either code or .md files
 ### **Semester 1**
 
 
-| Code    | Course Name                              | Type | CU     |
-| ------- | ---------------------------------------- | ---- | ------ |
-| MTH2104 | [Calculus]()                             | C    | 4      |
-| MTH2206 | [Linear Algebra]()                 | C    | 4      |
-| CSC2105 | [Object Oriented Programming]()        | C    | 4      |
-| CSC2106 | [Operating Systems]()                    | C    | 4      |
-| CSC2107 | [Design and Analysis of Algorithms]()    | C    | 4      |
-| CSC2208 | [Artificial Intelligence]()          | C    | 4      |
-| ELE1204 | [Digital Electronics and logic Design]() | E    | 4      |
-|         | _Total credits for Year 2 Semester 1_    |      | **28** |
+| Code    | Course Name                                       | Type | CU     |
+| ------- | ------------------------------------------------- | ---- | ------ |
+| MTH2104 | [Calculus]()                                      | C    | 4      |
+| MTH2206 | [Linear Algebra]()                                | C    | 4      |
+| CSC2105 | [Object Oriented Programming]()                   | C    | 4      |
+| CSC2106 | [Operating Systems]()                             | C    | 4      |
+| CSC2107 | [Design and Analysis of Algorithms]()             | C    | 4      |
+| CSC2208 | [Artificial Intelligence]()                       | C    | 4      |
+| TST2206 | Understanding Ethics from a Christian Perspective | C    | 3      |
+| ELE1204 | [Digital Electronics and logic Design]()          | E    | 4      |
+|         | _Total credits for Year 2 Semester 1_             |      | **31** |
+
+### **Semester 2**
+
+
+| Code          | Course Name                                      | Lecturer                |
+| ------------- | ------------------------------------------------ | ----------------------- |
+| CSC2201       | Machine learning                                 | Dr. Simon Peter Khabusi |
+| CSC2213       | Computational Complexity & Automata              | Mr. John Bosco Wabwire  |
+| CSC2209       | Database Programming                             | Ms. Justine Mukalere    |
+| CSC2214       | Computational Research Methods                   | Dr. Innocent Ndibatya   |
+| CSC2211       | Cyber Security and Digital Forensics             | Mrs. Catherine Bwire    |
+| **Electives** |                                                  |                         |
+| SYE2209       | Software Construction                            | Mr. Simon Fred Lubambo  |
+| CSC2217       | Embedded Systems and Microcontroller Programming | Ms. Olivia Nakayima     |
