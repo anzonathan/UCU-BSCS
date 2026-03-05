@@ -1,36 +1,34 @@
 #include <LiquidCrystal.h>
 
+// Initialize the LCD interface pins
 const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 2;
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
+// Define the analog pin
+const int adcPin = A0;
+
 void setup() {
+  // Set up the LCD's number of columns and rows
   lcd.begin(16, 2);
+  
+  // Quick startup message
+  lcd.print("ADC Reading:");
 }
 
 void loop() {
-  int rawValue = analogRead(A0);
+  // Read the value from the analog pin (0 - 1023)
+  int sensorValue = analogRead(adcPin);
 
-  // Example 1: Bitwise AND (&) to check if the value is ODD or EVEN
-  // 0x01 is binary 00000001. If the last bit is 1, it's odd.
-  bool isOdd = rawValue & 0x01;
-
-  // Example 2: Bitwise Masking
-  // Let's say we only care about the lower 8 bits (0-255)
-  int lowerByte = rawValue & 0xFF; 
-
-  lcd.setCursor(0, 0);
-  lcd.print("Raw: ");
-  lcd.print(rawValue);
-  
+  // Set the cursor to the second row (column 0, line 1)
   lcd.setCursor(0, 1);
-  if(isOdd) {
-    lcd.print("Odd  ");
-  } else {
-    lcd.print("Even ");
-  }
   
-  lcd.print("Low8: ");
-  lcd.print(lowerByte);
+  // Clear the line by printing spaces (prevents "ghost" digits)
+  lcd.print("Value:        "); 
+  
+  // Print the actual value
+  lcd.setCursor(7, 1);
+  lcd.print(sensorValue);
 
-  delay(500);
+  // Small delay for readability
+  delay(200);
 }
